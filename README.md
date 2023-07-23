@@ -2,8 +2,6 @@
 
 I am William London, currently working as a Software Engineer at Canton(CN). I am a Linux software developer and interested in nearly all the technologies. Find out more about me & feel free to connect with me here:
 
-This file is modifying.
-
 ![](https://dcbadge.vercel.app/api/shield/764712144876470303?style=flat)
 [![Gmail Badge](https://img.shields.io/badge/-williamlondon1023@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:williamlondon1023@gmail.com)](mailto:williamlondon1023@gmail.com)
 
