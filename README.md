@@ -6,8 +6,6 @@ This file is modifying.
 
 ![](https://dcbadge.vercel.app/api/shield/764712144876470303?style=flat)
 [![Gmail Badge](https://img.shields.io/badge/-williamlondon1023@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:williamlondon1023@gmail.com)](mailto:williamlondon1023@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
-
 
 ## ⚡ Technologies
 
@@ -20,6 +18,4 @@ This file is modifying.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=William1ondon&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William1ondon&hide=TeX&layout=compact)
